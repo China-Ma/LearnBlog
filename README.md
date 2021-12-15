@@ -6,4 +6,4 @@
 
 ### MySQL
 
-  <a url="https://github.com/China-Ma/LearnBlog/issues/1"> MySQL优化30条 </a>
+  - [MySQL优化30条](https://github.com/China-Ma/LearnBlog/issues/1)
