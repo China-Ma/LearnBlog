@@ -4,6 +4,6 @@
 
 
 
-- 笔记列表
+### MySQL
 
-  <a> https://github.com/China-Ma/LearnBlog/issues/1</a>
+  <a src="https://github.com/China-Ma/LearnBlog/issues/1"> MySQL优化30条 </a>
